@@ -1,0 +1,20 @@
+.custom-secondaryButton {
+  height: 40px;
+  padding: 10px 16px;
+  border: none;
+  border-radius: 6px;
+  font-size: 16px;
+  color: #fff;
+  background-color: #1A2856;
+  gap: 8px;
+  display: flex;
+  align-items: center;
+  }
+.custom-secondaryButton:hover {
+  opacity: 90%;
+  transition: 0.2s;
+}
+
+.custom-secondaryButton i {
+  font-size: 20px;
+}
