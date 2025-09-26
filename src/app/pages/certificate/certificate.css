@@ -1,0 +1,126 @@
+.certificate-menu {
+  max-width: 800px;
+  width: 100%;
+}
+
+.btn-back {
+  gap: 6px;
+  cursor: pointer;
+}
+
+.btn-back p {
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 20px;
+  letter-spacing: 0;
+  vertical-align: middle;
+  color: #64748b;
+}
+
+.btn-back i {
+  color: #64748b;
+  font-size: 20px;
+}
+
+.certificate {
+  position: relative;
+  margin-top: 32px;
+  background-image: url(../../../../public/certificate/certificate_bg.png);
+  width: 800px;
+  height: 550px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  border-radius: 12px;
+}
+
+.certificate-content {
+  position: relative;
+  width: 720px;
+  height: 470px;
+  background-color: #fff;
+  border-radius: 8px;
+}
+
+.certificate-content p {
+  margin: 0;
+}
+
+.icon-medal {
+  position: absolute;
+  top: 12px;
+  left: 12px;
+  z-index: 1;
+}
+
+.info-certificate {
+  margin: 64px 40px 48px 40px;
+  gap: 20px;
+}
+
+.title-subtitle-certificate h1 {
+  text-align: center;
+  font-weight: 900;
+  font-size: 24px;
+  line-height: 160%;
+  letter-spacing: 10%;
+  color: #1a2856;
+}
+
+.title-subtitle-certificate p {
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 160%;
+  letter-spacing: 0;
+  text-align: center;
+  margin: 0;
+  color: #121621;
+}
+
+.name-study-certificate {
+  font-weight: 700;
+  font-size: 52px;
+  line-height: 80px;
+  letter-spacing: 0;
+  text-align: center;
+  color: #385ac2;
+}
+
+.activity-list-group {
+  width: 413.7px;
+}
+
+.activity-list-title {
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 160%;
+  letter-spacing: 0;
+  text-align: center;
+  color: #121621;
+  margin-bottom: 8px !important;
+}
+
+.activity-list {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 160%;
+  letter-spacing: 0;
+  text-align: center;
+  color: #121621;
+}
+
+.certificate-date {
+  font-weight: 700;
+  font-size: 11.2px;
+  line-height: 160%;
+  text-align: center;
+  color: #121621;
+}
+
+.certificate-signature {
+  position: absolute;
+  width: 64px;
+  height: 64px;
+  bottom: 40px;
+  right: 40px;
+}

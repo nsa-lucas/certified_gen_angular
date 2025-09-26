@@ -5,11 +5,11 @@
   border-radius: 6px;
   font-size: 16px;
   color: #fff;
-  background-color: #1A2856;
+  background-color: #1a2856;
   gap: 8px;
   display: flex;
   align-items: center;
-  }
+}
 .custom-secondaryButton:hover {
   opacity: 90%;
   transition: 0.2s;
